@@ -94,9 +94,9 @@ ul.clients > li::before {
 }
 
 .show {
-	height:400px !important;
-	transition: height 1.2s ease, opacity 1s ease;
-	overflow: auto;
+height: 700px !important;
+transition: height 1.2s ease, opacity 1s ease;
+overflow: auto;
 }
 
 .header p {
