@@ -81,6 +81,7 @@ ul.clients {
     margin-left: -6px;
     margin-top: 0;
     height: 0;
+    font-size: 15px
     overflow: hidden;
 }
 
