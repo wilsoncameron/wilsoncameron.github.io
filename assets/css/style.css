@@ -59,17 +59,22 @@ p {
 	margin: 0 auto;
 }
 
-#contact p {
-	    height: 0;
-}
+
 
 #card p {
 	margin-bottom: 20px;
 
 }
 
-#films {
+#card p.contact {
+	   	margin: 0 auto;
+}
 
+#clientlist {
+	   	margin-top: 20px;
+}
+
+#films {
 
 
 }
@@ -89,7 +94,7 @@ ul.clients {
 }
 
 ul.clients > li {
-    margin-left: 30px;  
+    margin-left: 30px;
 }
 
 ul.clients > li::before {
@@ -105,7 +110,7 @@ overflow: auto;
 
 .header p {
 	margin:0;
-	
+
 }
 
 
